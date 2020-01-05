@@ -1,0 +1,15 @@
+{
+  "name": "understanding-preact",
+  "version": "1.0.0",
+  "description": "understanding Preact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "preact": "^10.1.1"
+  }
+}
